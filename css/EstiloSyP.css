@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(161, 227, 216);
+    margin:0px;
+}
+h1{
+    text-align: center;
+    display: block;
+    font-size: 1cm;
+    font-family: fantasy;
+    color: #009c8f;
+}
+.consulta{
+    text-align: center;
+
+}
+.contenedor{
+    border-radius: 10px;
+    margin: 20px 80px;
+    max-height: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.contenedor section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.contenedor section article{
+    width: 350px;
+    border: 10px solid rgb(0, 156, 143);
+    background-color: aliceblue;
+    padding: 20px;
+    text-align: center;
+}
+
+img{
+    width: 300px; 
+    height: 300px;
+    border-radius: 20px;
+}
+
+.contenedor section article p{
+    font-size: 1.8em;
+    font-family:fantasy;
+    color: #02665e;
+}

@@ -1,0 +1,109 @@
+body{
+    background-color: rgb(161, 227, 216);
+}
+.main{
+    margin: 2px 80px;
+    border-spacing: 0;
+}
+
+.main tr td{
+    text-align: center;
+}
+.main tr td h1{
+    text-align: center;
+    display: block; 
+    font-size: 0.6cm;
+    font-family: fantasy;
+    color: #02665e;
+}
+.form1{
+    font-family: fantasy; 
+    color: #02665e; 
+    text-align: justify;
+    padding: 60px;
+}
+.form1 h2{
+    text-align: center; 
+    color: #02665e
+}
+.form1 p{
+    text-align: justify;
+}
+.tabla1{
+    border-spacing: 10px;
+    border-radius: 5px; 
+    margin: 10px 40px;
+    text-align: center;
+    background-color: rgb(0, 156, 143);
+}
+.tabla1 tr td{
+    padding: 8;
+    background-color: white;
+    text-align: center;
+}
+.tabla1 tr td img{
+    border-radius: 20px;
+    width: 80px; 
+    height: 80px;
+}
+.tabla1 tr td p{
+    font-size: 1.8em;
+    font-family:fantasy; 
+    text-align:center;
+    color: #02665e;
+}
+.tabla2{
+    border-spacing: 10px;
+    border-radius: 5px; 
+    margin: 10px 40px;
+    text-align: center;
+    background-color: rgb(0, 156, 143);
+}
+.tabla2 tr td{
+    padding: 8;
+    background-color: white;
+    text-align: center;
+}
+.tabla2 tr td img{
+    border-radius: 20px;
+    width: 80px; 
+    height: 80px;
+}
+.tabla2 tr td p{
+    font-size: 1.3em;
+    font-family:fantasy; 
+    text-align:center;
+    color: #02665e;
+}
+.especial2{
+    font-family: fantasy; 
+    color: #02665e;
+    padding: 30px;
+}
+.tabla3{
+    text-align: center;
+}
+.tabla3 tr td h1{
+    text-align: center;
+    display: block; 
+    font-size: 0.6cm;
+    font-family: fantasy;
+    color: #02665e;
+}
+.tabla3 tr td img{
+    width: 400px;
+    height: 160px;
+}
+.especial3{
+    font-family: fantasy; 
+    color: #02665e;
+    padding: 60px;
+}
+.tabla4{
+    background-color: rgb(6, 154, 142);
+}
+.tabla4 tr td a{
+    display: block; 
+    font-size: 0.5cm;
+    color: aliceblue;
+}

@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(161, 227, 216);
+}
+.container{
+    text-align: center;
+}
+.titulo{
+    display: block;
+    font-size: 1cm;
+    font-family: fantasy;
+    color: #009c8f;
+}
+.subtitulo{
+    display: block;
+    font-size: 0.80cm;
+    font-family: fantasy;
+    color: #009c8f;
+}

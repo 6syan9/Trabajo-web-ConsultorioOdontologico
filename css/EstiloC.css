@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(161, 227, 216);
+    margin:0px;
+}
+.tabla1{
+    padding-top: 40px;
+}
+.tabla1 tr{
+    background-color: #009c8f;
+}

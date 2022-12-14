@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(161, 227, 216);
+}
+.infonosotros{
+    margin: 0px 100px;
+    display: flexbox;
+    flex-direction: column;
+}
+.info1{
+    display: flex;
+    justify-content: space-between;
+}
+.info2{
+    display: flex;
+    justify-content: space-between;
+}
+
+.info1 div{
+    text-align: justify;
+    padding: 40px;
+}
+.info2 div{
+    text-align: justify;
+    padding: 40px;
+}
+
+img{
+    width: 400px; 
+    height: 270px;
+    border-radius: 20px;
+}
